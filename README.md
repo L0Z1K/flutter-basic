@@ -1,16 +1,7 @@
 # toonflix
 
-A new Flutter project.
+A Basic UI App with Flutter in NomadCoders Lecture.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="449" alt="Screenshot 2023-04-02 at 9 52 41 PM" src="https://user-images.githubusercontent.com/64528476/229357259-5680bbfa-e80f-4e2c-8acb-dab4f8777bc2.png">
