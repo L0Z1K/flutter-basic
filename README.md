@@ -1,6 +1,6 @@
-# toonflix
+# Flutter-Basic
 
-A Basic UI App with Flutter in NomadCoders Lecture.
+Basic Apps in NomadCoders Lecture.
 
 ## Screenshots
 
