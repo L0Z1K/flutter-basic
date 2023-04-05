@@ -1,4 +1,4 @@
-# wallet-app
+# wallet
 
 A Basic UI App with Flutter in NomadCoders Lecture.
 
